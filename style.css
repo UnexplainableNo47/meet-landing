@@ -179,7 +179,7 @@ footer{
 }
 @media screen and (max-width: 750px) {
     .grid-1 img{
-        height: 10rem;
+        height: 8rem;
     }    
     .grid-collage {
         display: flex;
